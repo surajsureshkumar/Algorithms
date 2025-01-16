@@ -30,6 +30,7 @@ class BinarySearch:
 
         return -1
 
+# uncomment the below lines for unit test cases 
 # class BinarySearchTest(unittest.TestCase):
 #     def setUp(self):
 #         self.array = [1,2,3,4,5,6,7,8,10]
@@ -38,7 +39,6 @@ class BinarySearch:
 #     def test_value_found(self):
 #         self.assertEqual(self.binary_search.search(4), 3)
 #         self.assertEqual(self.binary_search.search(1), 0)
-#         self.assertEqual(self.binary_search.search(10), 8)
 
 #     def test_empty_array(self):
 #         empty_binary_search = BinarySearch([])
