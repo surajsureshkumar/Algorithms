@@ -2,7 +2,7 @@ import unittest
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from Selection_Sort import SelectionSort
+from Sorting.Selection_Sort import SelectionSort
 
 class Test(unittest.TestCase):
     def __init__(self, methodName = "runTest"):

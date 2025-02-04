@@ -6,7 +6,7 @@ current_directory = Path(__file__).resolve().parent
 parent_directory = current_directory.parent
 sys.path.append(str(parent_directory))
 
-from Insertion_Sort import InsertionSort
+from Sorting.Insertion_Sort import InsertionSort
 
 
 class Tests(unittest.TestCase):

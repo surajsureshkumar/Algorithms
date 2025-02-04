@@ -1,6 +1,6 @@
 import unittest
+from Searching. Binary_Search import BinarySearch;
 
-from Binary_Search import BinarySearch;
 class BinarySearchTest(unittest.TestCase):
     def setUp(self):
         self.array = [1,2,3,4,5,6,7,8,10]
