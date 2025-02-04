@@ -1,7 +1,7 @@
 
-# This repository contains various algorithms and data structures
+# Algorithms and data structures
 
-This repository is OOPs implementation of algorithms in python with unit test cases.
+This repository is OOPs implementation of algorithms in python with unit test cases. Feel free to clone the repository and dive into the code.
 
 ## 🤝 Contributing
 
