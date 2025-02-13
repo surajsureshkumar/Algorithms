@@ -1,4 +1,5 @@
-function LinearSearch(target){
+function LinearSearch(){
+    let target = 3
     let array = [1,2,3,4,5,6,7,8];
 
     for(let idx = 0; idx < array.length; idx++){
@@ -9,6 +10,5 @@ function LinearSearch(target){
     return -1
 }
 
-let target = 9
-foundValue = LinearSearch(target);
-console.log(target)
+foundValue = LinearSearch();
+console.log(foundValue)
