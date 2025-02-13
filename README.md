@@ -1,7 +1,7 @@
 
 # Algorithms and data structures
 
-This repository contains OOPs implementation of algorithms in python with unit test cases. Feel free to clone the repository and dive into the code.
+This repository contains OOPs implementation of algorithms in python and javascript with unit test cases for the python scripts. Feel free to clone the repository and dive into the code.
 
 ### Build the project
 To build the project, clone the repository into a local folder folder.
