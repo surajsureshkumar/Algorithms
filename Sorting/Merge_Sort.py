@@ -1,5 +1,5 @@
 class MergeSort():
-    """OOP + functional implementation of MergeSort Algorithm"""
+    """OOP + functional implementation of MergeSort Algorithm, please refer to the algorithm working if you are looking at this for the first time"""
     def __init__(self, array: list):
         """Constructor
 
