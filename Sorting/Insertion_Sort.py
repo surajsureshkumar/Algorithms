@@ -1,4 +1,5 @@
 class InsertionSort:
+    
     def __init__(self, array: list):
         self.array = array
 
