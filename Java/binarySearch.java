@@ -25,7 +25,7 @@ public class BinarySearch{
         if(valueIndex != -1){
             System.out.println("Value found at index" + valueIndex);
         } else {
-            System.out.printlnt("Value not found and element not present");
+            System.out.println("Value not found and element not present");
         }
     }
 }
