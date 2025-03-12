@@ -9,7 +9,7 @@ class SlidingWindow:
             # add some logic here to track the sum
             # self.curr += arr[right]
 
-            while #CONDITION_FOR_WINDOW_BEING_INVALID:
+            #while CONDITION_FOR_WINDOW_BEING_INVALID:
                 # do some logic to "remove" the leftmost element from the window 
                 # like below and increment the pointer to the next element 
                 self.curr -= arr[self.left]
